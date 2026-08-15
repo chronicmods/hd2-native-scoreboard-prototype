@@ -1,0 +1,13 @@
+{
+  "name": "hd2-native-scoreboard-prototype",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Native Helldivers 2 hold-to-view scoreboard UI prototype",
+  "scripts": {
+    "test": "node tools/validate_patch.js mod/9ba626afa44a3aa3.patch_0 src/overlay_hud.xaml"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "license": "MIT"
+}

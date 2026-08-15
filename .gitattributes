@@ -1,0 +1,9 @@
+* text=auto
+*.js text eol=lf
+*.json text eol=lf
+*.md text eol=lf
+*.txt text eol=lf
+*.xaml text eol=lf
+*.patch_0 binary
+*.stream binary
+*.gpu_resources binary
